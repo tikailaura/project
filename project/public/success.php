@@ -17,7 +17,7 @@ function e($string) {
 <head>
     <meta charset="UTF-8">
     <title>Welcome <?= e($user['firstname']) ?></title>
-    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <header class="header">
