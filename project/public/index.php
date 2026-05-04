@@ -14,8 +14,8 @@ function show_message($type) {
 <head>
     <meta charset="UTF-8">
     <title>Account</title>
-    <link rel="stylesheet" href="assets/style.css">
-    <script src="assets/app.js" defer></script>
+    <link rel="stylesheet" href="/project/assets/style.css"> 
+<script src="/project/assets/app.js" defer></script>
 </head>
 <body>
 
